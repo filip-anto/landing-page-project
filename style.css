@@ -81,6 +81,7 @@ header{
     font-size:36px;
     font-style: light italic;
     color:#1F2937;
+    padding-bottom: 50px;
 }
 .signature{
     align-self: flex-end;
@@ -89,7 +90,7 @@ header{
 .section-4{
     margin:100px 20%;
     border-radius: 10px;
-    padding:10px;
+    padding:30px;
     background-color: #3882F6;
     color:white;
     display:flex;
