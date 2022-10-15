@@ -54,6 +54,25 @@ header{
 .same-size-2{
     margin-left:auto;
 }
+.section-2{
+    text-align:center;
+}
+
+.items{
+    display:flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-grow:0;
+    gap:50px;
+}
+
+.item{
+    display:flex;
+    flex-direction: column;
+    width:10%;
+    align-content: center;
+}
+
 
 ul{
     font-size:18px;
